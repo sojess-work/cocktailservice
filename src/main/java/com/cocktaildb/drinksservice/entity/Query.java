@@ -1,4 +1,4 @@
-package com.cocktaildb.drinksservice.controller.entity;
+package com.cocktaildb.drinksservice.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

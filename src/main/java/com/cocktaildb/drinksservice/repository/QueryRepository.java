@@ -1,6 +1,6 @@
-package com.cocktaildb.drinksservice.controller.repository;
+package com.cocktaildb.drinksservice.repository;
 
-import com.cocktaildb.drinksservice.controller.entity.Query;
+import com.cocktaildb.drinksservice.entity.Query;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

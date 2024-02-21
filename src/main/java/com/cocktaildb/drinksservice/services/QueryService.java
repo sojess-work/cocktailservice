@@ -1,7 +1,7 @@
 package com.cocktaildb.drinksservice.services;
 
-import com.cocktaildb.drinksservice.controller.entity.Query;
-import com.cocktaildb.drinksservice.controller.repository.QueryRepository;
+import com.cocktaildb.drinksservice.entity.Query;
+import com.cocktaildb.drinksservice.repository.QueryRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
